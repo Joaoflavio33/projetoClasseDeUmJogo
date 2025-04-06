@@ -1,7 +1,9 @@
-Instruções para entrega
+# Instruções para entrega
 
 3️⃣ Escrevendo as classes de um Jogo
 O Que deve ser utilizado
+
+//---------------------------------------------------------------------------------------------------------
 
 Variáveis
 Operadores
@@ -9,7 +11,8 @@ Laços de repetição
 Estruturas de decisões
 Funções
 Classes e Objetos
-Objetivo:
+
+# Objetivo:
 Crie uma classe generica que represente um herói de uma aventura e que possua as seguintes propriedades:
 
 nome
